@@ -56,7 +56,8 @@ HIV-AIDS-Dashboard/
 
 ## 🖼 Sample Dashboard Preview
 
-> ![Dashboard Screenshot]("E:\Corelia\Final Project\FINAL\Screanshots\Screenshot 2025-06-29 200823.png")
+> ![Dashboard Screenshot](![Screenshot 2025-06-29 200823](https://github.com/user-attachments/assets/32a3e7b1-a1ff-470e-8755-5aa467b7e1b4)
+)
 > ![Dashboard Screenshot]("E:\Corelia\Final Project\FINAL\Screanshots\Screenshot 2025-06-29 200907.png")
 > ![Dashboard Screenshot]("E:\Corelia\Final Project\FINAL\Screanshots\Screenshot 2025-06-29 200937.png")
 > ![Dashboard Screenshot]("E:\Corelia\Final Project\FINAL\Screanshots\Screenshot 2025-06-29 201007.png")
