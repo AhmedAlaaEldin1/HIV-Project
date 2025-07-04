@@ -80,7 +80,9 @@ HIV-AIDS-Dashboard/
 
 **Ahmed Alaa**  
 *Data Analyst | Power BI Developer*  
-🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/ahmed-alaa-8663b6318?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuHapIDfBQByM7wPz1Xc9Ug%3D%3D)) | 📫 Ahmed25527777@gmail.com
+🔗 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/ahmed-alaa-8663b6318?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BuHapIDfBQByM7wPz1Xc9Ug%3D%3D)) | 📫 
+
+Ahmed25527777@gmail.com
 
 ---
 
