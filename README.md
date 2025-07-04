@@ -56,13 +56,13 @@ HIV-AIDS-Dashboard/
 
 ## 🖼 Sample Dashboard Preview
 
-> ![Dashboard Screenshot](![Screenshot 2025-06-29 200823](https://github.com/user-attachments/assets/32a3e7b1-a1ff-470e-8755-5aa467b7e1b4)
+> (![Screenshot 2025-06-29 200823](https://github.com/user-attachments/assets/32a3e7b1-a1ff-470e-8755-5aa467b7e1b4)
 )
-> ![Dashboard Screenshot](![Screenshot 2025-06-29 200907](https://github.com/user-attachments/assets/399e215e-6b58-401f-a502-088b43a993d5)
+> (![Screenshot 2025-06-29 200907](https://github.com/user-attachments/assets/399e215e-6b58-401f-a502-088b43a993d5)
 )
-> ![Dashboard Screenshot](![Screenshot 2025-06-29 200937](https://github.com/user-attachments/assets/bace6e4f-14c6-4bf4-b728-8d6d087c6ee0)
+> (![Screenshot 2025-06-29 200937](https://github.com/user-attachments/assets/bace6e4f-14c6-4bf4-b728-8d6d087c6ee0)
 )
-> ![Dashboard Screenshot](![Screenshot 2025-07-04 200328](https://github.com/user-attachments/assets/8ac36309-f679-4c4b-9a4c-bc1e69a2e3f4)
+>(![Screenshot 2025-07-04 200328](https://github.com/user-attachments/assets/8ac36309-f679-4c4b-9a4c-bc1e69a2e3f4)
 )
 
 ---
